@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Vox
 
 You can use the [editor on GitHub](https://github.com/S-Guy-Descend/vox/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
