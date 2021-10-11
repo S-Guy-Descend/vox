@@ -17,6 +17,7 @@ Syntax highlighted code block
 
 - Bulleted
 - List
+[Vox - Project Specification.pdf](https://github.com/S-Guy-Descend/vox/files/7322861/Vox.-.Project.Specification.pdf)
 
 1. Numbered
 2. List
