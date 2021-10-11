@@ -15,6 +15,8 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
+<a href="Vox - Project Specification.pdf">Project Specification</a>
+
 - Bulleted
 - List
 [Vox - Project Specification.pdf](https://github.com/S-Guy-Descend/vox/files/7322861/Vox.-.Project.Specification.pdf)
