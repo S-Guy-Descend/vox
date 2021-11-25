@@ -6,7 +6,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 [Project Specification File](https://github.com/S-Guy-Descend/vox/files/7322861/Vox.-.Project.Specification.pdf)
 
-[Project Analysis Report](https://github.com/S-Guy-Descend/vox/files/7604626/Vox.-.Analysis.Report.pdf)
+
 
 ### Markdown
 
