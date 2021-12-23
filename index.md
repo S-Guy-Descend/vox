@@ -8,6 +8,9 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 [Project Analysis Report](https://github.com/S-Guy-Descend/vox/files/7604626/Vox.-.Analysis.Report.pdf)
 
+[High Level Design Report](https://github.com/S-Guy-Descend/vox/files/7771405/Vox.-.High.Level.Design.Report.pdf)
+
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
