@@ -10,6 +10,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 [High Level Design Report](https://github.com/S-Guy-Descend/vox/files/7771405/Vox.-.High.Level.Design.Report.pdf)
 
+[Vox - Low Level Design Report.pdf](https://github.com/S-Guy-Descend/vox/files/8149507/Vox.-.Low.Level.Design.Report.pdf)
+
 
 ### Markdown
 
