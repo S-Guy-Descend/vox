@@ -6,6 +6,7 @@ Vox is an interactive tool for learning the American Sign Language quickly and e
 
 
 # Demo Video
+[![Demo Video](https://user-images.githubusercontent.com/69198125/168140233-4a0637b6-da0b-4975-b160-5e911f2b1553.png)](https://www.youtube.com/watch?v=jNQXAC9IVRw)
 
 
 # Members
