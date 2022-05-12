@@ -16,9 +16,6 @@ Oğulcan Çetinkaya ([ogulcan.cetinkaya@ug.bilkent.edu.tr](ogulcan.cetinkaya@ug.
 Sarp Ulaş Kaya ([ulas.kaya@ug.bilkent.edu.tr](ulas.kaya@ug.bilkent.edu.tr))\
 Atakan Sağlam ([atakan.saglam@ug.bilkent.edu.tr](atakan.saglam@ug.bilkent.edu.tr))
 
-# GitHub Repository
-[https://github.com/S-Guy-Descend/vox-code](https://github.com/S-Guy-Descend/vox-code) (Don't forget to read the user manual beforehand!)
-
 # Documents
 
 [Project Specification File](https://github.com/S-Guy-Descend/vox/files/7322861/Vox.-.Project.Specification.pdf)
