@@ -1,12 +1,22 @@
-##
+# Vox
+Vox is an interactive tool for learning the American Sign Language quickly and efficiently. Using the webcam input of the user, it utilizes image processing and machine learning algorithms to check the user's hand movements during a selection of activities for them to engage in. These activities are learning what each sign means one-by-one, forming words while hints are displayed on screen to do some practice with the signs, and finally trying to form words from memory without the help of on-screen hints. The user's progress is shown during these activities, and audio cues also assist them next to visual changes on the screen for each sign they use correctly.
+
+# Poster
+![VOXTER](https://user-images.githubusercontent.com/69198125/168136718-9ea38254-f498-4b7f-b634-a6ff2839788b.png)
+
+
+# Demo Video
+
 
 # Members
-
 ![Furkan Başkaya](https://user-images.githubusercontent.com/69198125/168133712-616b716c-645c-4227-b759-0cf39e3e3662.jpg)
 ![Berk Kerem Berçin](https://user-images.githubusercontent.com/69198125/168133732-2cbdb948-60e1-4c16-80fc-5ac1389318c9.jpg)
 ![Oğulcan Çetinkaya](https://user-images.githubusercontent.com/69198125/168133740-f7ad51c2-57e3-4785-a5f2-642b0060f4cc.jpg)
 ![Sarp Ulaş Kaya](https://user-images.githubusercontent.com/69198125/168133746-6cb1bae9-665d-439a-92db-203bcff99e9c.jpg)
 ![Atakan Sağlam](https://user-images.githubusercontent.com/69198125/168133757-a3d81d83-021d-43d5-9910-96b7d4acb9f2.jpg)
+
+# GitHub Repository
+
 
 # Documents
 
