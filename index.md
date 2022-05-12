@@ -10,17 +10,11 @@ Vox is an interactive tool for learning the American Sign Language quickly and e
 
 
 # Developers
-Furkan Başkaya ([furkan.baskaya@ug.bilkent.edu.tr](furkan.baskaya@ug.bilkent.edu.tr))
-Berk Kerem Berçin ([kerem.bercin@ug.bilkent.edu.tr](kerem.bercin@ug.bilkent.edu.tr))
-Oğulcan Çetinkaya ([ogulcan.cetinkaya@ug.bilkent.edu.tr](ogulcan.cetinkaya@ug.bilkent.edu.tr))
-Sarp Ulaş Kaya ([ulas.kaya@ug.bilkent.edu.tr](ulas.kaya@ug.bilkent.edu.tr))
+Furkan Başkaya ([furkan.baskaya@ug.bilkent.edu.tr](furkan.baskaya@ug.bilkent.edu.tr))\
+Berk Kerem Berçin ([kerem.bercin@ug.bilkent.edu.tr](kerem.bercin@ug.bilkent.edu.tr))\
+Oğulcan Çetinkaya ([ogulcan.cetinkaya@ug.bilkent.edu.tr](ogulcan.cetinkaya@ug.bilkent.edu.tr))\
+Sarp Ulaş Kaya ([ulas.kaya@ug.bilkent.edu.tr](ulas.kaya@ug.bilkent.edu.tr))\
 Atakan Sağlam ([atakan.saglam@ug.bilkent.edu.tr](atakan.saglam@ug.bilkent.edu.tr))
-
-## Sarp Ulaş Kaya
-![Sarp Ulaş Kaya](https://user-images.githubusercontent.com/69198125/168133746-6cb1bae9-665d-439a-92db-203bcff99e9c.jpg)
-
-## Atakan Sağlam
-![Atakan Sağlam](https://user-images.githubusercontent.com/69198125/168133757-a3d81d83-021d-43d5-9910-96b7d4acb9f2.jpg)
 
 # GitHub Repository
 [https://github.com/S-Guy-Descend/vox-code](https://github.com/S-Guy-Descend/vox-code) (Don't forget to read the user manual beforehand!)
