@@ -9,16 +9,12 @@ Vox is an interactive tool for learning the American Sign Language quickly and e
 [![Demo Video](https://user-images.githubusercontent.com/69198125/168140233-4a0637b6-da0b-4975-b160-5e911f2b1553.png)](https://www.youtube.com/watch?v=Nr3QhsLUNdM)
 
 
-# Members
-
-## Furkan Başkaya
-![Furkan Başkaya](https://user-images.githubusercontent.com/69198125/168133712-616b716c-645c-4227-b759-0cf39e3e3662.jpg)
-
-## Berk Kerem Berçin
-![Berk Kerem Berçin](https://user-images.githubusercontent.com/69198125/168133732-2cbdb948-60e1-4c16-80fc-5ac1389318c9.jpg)
-
-## Oğulcan Çetinkaya
-![Oğulcan Çetinkaya](https://user-images.githubusercontent.com/69198125/168133740-f7ad51c2-57e3-4785-a5f2-642b0060f4cc.jpg)
+# Developers
+Furkan Başkaya ([furkan.baskaya@ug.bilkent.edu.tr](furkan.baskaya@ug.bilkent.edu.tr))
+Berk Kerem Berçin ([kerem.bercin@ug.bilkent.edu.tr](kerem.bercin@ug.bilkent.edu.tr))
+Oğulcan Çetinkaya ([ogulcan.cetinkaya@ug.bilkent.edu.tr](ogulcan.cetinkaya@ug.bilkent.edu.tr))
+Sarp Ulaş Kaya ([ulas.kaya@ug.bilkent.edu.tr](ulas.kaya@ug.bilkent.edu.tr))
+Atakan Sağlam ([atakan.saglam@ug.bilkent.edu.tr](atakan.saglam@ug.bilkent.edu.tr))
 
 ## Sarp Ulaş Kaya
 ![Sarp Ulaş Kaya](https://user-images.githubusercontent.com/69198125/168133746-6cb1bae9-665d-439a-92db-203bcff99e9c.jpg)
