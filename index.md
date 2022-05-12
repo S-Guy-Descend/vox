@@ -16,7 +16,7 @@ Vox is an interactive tool for learning the American Sign Language quickly and e
 ![Atakan Sağlam](https://user-images.githubusercontent.com/69198125/168133757-a3d81d83-021d-43d5-9910-96b7d4acb9f2.jpg)
 
 # GitHub Repository
-https://github.com/S-Guy-Descend/vox-code (Don't forget to read the user manual beforehand!)
+[https://github.com/S-Guy-Descend/vox-code] (Don't forget to read the user manual beforehand!)
 
 # Documents
 
