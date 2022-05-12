@@ -1,4 +1,4 @@
-## Vox
+## Documents
 
 [Project Specification File](https://github.com/S-Guy-Descend/vox/files/7322861/Vox.-.Project.Specification.pdf)
 
